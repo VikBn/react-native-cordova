@@ -20,7 +20,7 @@ package com.remobile.cordova;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 import com.facebook.common.logging.FLog;
 import com.facebook.react.bridge.ActivityEventListener;
